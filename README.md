@@ -2,4 +2,4 @@
 
 Probabilistic Machine Learning
 
-[PML Course Website](!https://nipunbatra.github.io/pml2023/)
+[PML Course Website](https://nipunbatra.github.io/pml2023/)
